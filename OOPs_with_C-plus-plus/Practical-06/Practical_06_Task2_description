@@ -1,0 +1,6 @@
+in this task we are checking if a string is palindrome or not
+he we are taking to iterators one starts with the first value of the string
+and another has the last value
+and we keep comparing them until the first iterator has value less than second
+and if between this we encounter that the value stored in the iterators are not not equal then we break the loop
+and change and thus we know that it is not a palindrome

@@ -1,0 +1,7 @@
+in this task we understand how string comapring function work
+if we are comapring two strings a and b
+then it compares its ascii values
+so if it returns 0 this means strings are equal
+if greater than one then a has a greater ascii value character 
+if less then one then it has a lesser ascii value character
+if they are both of different size then it returns the size difference of a and b

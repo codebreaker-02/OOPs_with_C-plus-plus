@@ -1,0 +1,4 @@
+When we try to add an integer and string it gives an error,
+because this operator is not defined to add a string and a integer
+whereas when we use this operator with the operands as string it concatenates them
+and when it is used with integer it adds them
