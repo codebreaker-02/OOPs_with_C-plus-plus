@@ -1,0 +1,5 @@
+By default, all the members of the structure are public. In contrast, all members of the class are private.
+so to acess private memebers of the class we need functions whereas in sturucture we can directly access the memebers.
+The structure will automatically initialize its members. In contrast, constructors and destructors are used to initialize the class members.
+When a structure is implemented, memory allocates on a stack. In contrast, memory is allocated on the heap in class.
+Variables in a structure cannot be initialized during the declaration, but they can be done in a class.
